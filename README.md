@@ -1,4 +1,4 @@
-# paceboard
+# Limbobbia Speedruns
 
 ![Limbobbia guitar](assets/img/logo.png)
 
